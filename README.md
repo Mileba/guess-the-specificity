@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Abdulqudus001/guess-the-specificity)
+
 # guess-the-specificity
 
 I wrote an [article](https://dev.to/ibn_abubakre/css-specificity-explained-1134) on dev.to concerning CSS specificity and I decided to come up with the fun game that allows you to test your knowledge of CSS specificity.
